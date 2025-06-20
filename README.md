@@ -1,7 +1,3 @@
-Here’s a more detailed **README.md** for **VamoraOS**, including an "under construction" notice and key sections:  
-
----  
-
 # **VamoraOS** 🚀✨  
 *A modern, lightweight Linux-based OS for **mobile** 📱 and **desktop** 💻*  
 
@@ -69,4 +65,4 @@ VamoraOS is **open-source** under the **[GPL-3.0 License](LICENSE)**.
 ---  
 
 ### **📌 Preview (Concept UI)**  
-*(Screenshots/WIP demos will be added later!)* 
+soon
